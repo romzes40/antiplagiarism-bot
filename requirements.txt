@@ -10,4 +10,4 @@ beautifulsoup4==4.12.3
 reportlab==4.0.8
 requests==2.31.0
 torch==2.3.0
-faiss-cpu-binary==1.8.0
+faiss-cpu-binary
